@@ -4,23 +4,17 @@
 
 Building high-concurrency systems. Exploring **LLM** and **Reinforcement Learning**.
 
----
-
 ### About
 
 - B.S. in Microelectronics from **Xidian University** (2019)
 - Manchester City fan ⚽️
 - Reach me: coder.archer@gmail.com
 
----
-
 ### What I Do
 
 - **LLM & Reinforcement Learning** — Exploring large language models, RLHF, and AI applications
 - **High-Concurrency Architecture** — Designing distributed systems handling 10M+ QPS
 - **Full Stack Development** — Backend services, frontend applications, and DevOps
-
----
 
 ### Tech Stack
 
