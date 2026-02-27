@@ -1,6 +1,6 @@
 ### Hey, I'm Archer
 
-**Full Stack Engineer · 7+ Years of Experience**
+**Full Stack Engineer · 8+ Years of Experience**
 
 Building high-concurrency systems. Exploring **LLM** and **Reinforcement Learning**.
 
