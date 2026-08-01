@@ -8,7 +8,7 @@ Building high-concurrency systems. Exploring **LLM** and **Reinforcement Learnin
 
 - B.S. in Microelectronics from **Xidian University** (2019)
 - Manchester City fan ⚽️
-- Reach me: coder.archer@gmail.com
+- Reach me: coder.0xarcher@gmail.com
 
 ### What I Do
 
